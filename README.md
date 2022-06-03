@@ -1,0 +1,50 @@
+# Headless Commerce with Nuxt 3, Shopify, and TailwindCSS
+
+![Headless Commerce with Nuxt 3, Shopify, and TailwindCSS](/static/building-headless-commerce-nuxt-shopify-tailwind.png)
+
+Example of a Headless Commerce website built with Nuxt 3, Shopify, and TailwindCSS. This project is a code repository template used in video tutorial series and an article that will be published soon.
+
+## Reference
+
+* Nuxt.js 3 documentation [here](https://v3.nuxtjs.org)
+* TailwindCSS documentation [here](https://tailwindcss.com/)
+* Shopify documentation [here](https://shopify.dev/api)
+
+## Setup
+
+Make sure to install the dependencies:
+
+```bash
+# yarn
+yarn install
+
+# npm
+npm install
+
+# pnpm
+pnpm install --shamefully-hoist
+```
+
+## Development Server
+
+Start the development server on http://localhost:3000
+
+```bash
+npm run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+npm run build
+```
+
+Locally preview production build:
+
+```bash
+npm run preview
+```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
