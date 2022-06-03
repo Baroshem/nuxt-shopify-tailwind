@@ -4,6 +4,8 @@
 
 Example of a Headless Commerce website built with Nuxt 3, Shopify, and TailwindCSS. This project is a code repository template used in video tutorial series and an article that will be published soon.
 
+*This is not a real website template. In order to make it production ready many things would have to be implemented like order, checkout, categories, mobile support, etc. If you are looking for production ready Nuxt store with Shopify, check out [Vue Storefront](https://www.vuestorefront.io/) and especially, the integration with Shopify [here](https://docs.vuestorefront.io/shopify/).*
+
 ## Reference
 
 * Nuxt.js 3 documentation [here](https://v3.nuxtjs.org)
