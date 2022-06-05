@@ -16,6 +16,7 @@ Official docs:
 * Nuxt.js 3 documentation [here](https://v3.nuxtjs.org)
 * TailwindCSS documentation [here](https://tailwindcss.com/)
 * Shopify documentation [here](https://shopify.dev/api)
+* Tailwind Elements documentation [here](https://tailwind-elements.com/)
 
 ## Setup
 
