@@ -8,7 +8,8 @@ Example of a Headless Commerce website built with Nuxt 3, Shopify, and TailwindC
 
 ## Reference
 
-* [TBD] Video tutorial
+[![YouTube Video about Building Headless Commerce with Nuxt 3, Shopify, and TailwindCSS](https://img.youtube.com/vi/QK6wPHFiRyM/0.jpg)](https://www.youtube.com/watch?v=QK6wPHFiRyM)
+
 * [TBD] Article tutorial
 
 Official docs:
