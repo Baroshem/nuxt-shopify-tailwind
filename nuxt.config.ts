@@ -3,7 +3,12 @@ import { defineNuxtConfig } from "nuxt";
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   ssr: false,
-  modules: ["@nuxtjs/tailwindcss", "nuxt-graphql-client"],
+  modules: ["@nuxtjs/tailwindcss", "nuxt-graphql-client", "@nuxtjs/algolia"],
+
+  algolia: {
+    apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
+    applicationId: process.env.ALGOLIA_APPLICATION_ID,
+  },
 
   runtimeConfig: {
     public: {

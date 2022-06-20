@@ -12,6 +12,7 @@
     "nuxt": "3.0.0-rc.3"
   },
   "dependencies": {
+    "@nuxtjs/algolia": "^0.9.2",
     "nuxt-graphql-client": "^0.0.32"
   }
 }
