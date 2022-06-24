@@ -8,7 +8,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="flex my-20">
+  <div class="md:flex my-20">
     <ProductCard
       v-for="product in products"
       :key="product.node.id"

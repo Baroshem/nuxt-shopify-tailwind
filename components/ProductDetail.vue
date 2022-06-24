@@ -27,10 +27,10 @@ const emit = defineEmits(['button-clicked'])
 
 <template>
   <section>
-    <div class="grid grid-cols-2 flex items-center px-20">
+    <div class="md:grid md:grid-cols-2 md:flex items-center md:px-20">
       <img
         :src="image"
-        class="rounded-lg shadow-lg -rotate-6"
+        class="rounded-lg shadow-lg md:-rotate-6"
         alt="Product Image"
       />
       <div class="rounded-lg shadow-lg p-12 backdrop-blur-2xl">
