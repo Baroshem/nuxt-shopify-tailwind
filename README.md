@@ -1,4 +1,6 @@
-# Headless Commerce with Nuxt 3, Shopify, and TailwindCSS
+# [Out of date] Headless Commerce with Nuxt 3, Shopify, and TailwindCSS 
+
+Please use this repository instead -> https://github.com/Baroshem/nuxt-shopify-storyblok
 
 ![Headless Commerce with Nuxt 3, Shopify, and TailwindCSS](/static/building-headless-commerce-nuxt-shopify-tailwind.png)
 
